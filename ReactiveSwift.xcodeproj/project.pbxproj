@@ -1363,6 +1363,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = Sources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -1375,6 +1376,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = Sources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -1449,6 +1451,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = Sources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Profile;
 		};
@@ -1513,6 +1516,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = Sources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Test;
 		};
